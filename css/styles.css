@@ -1,0 +1,18 @@
+#body {
+    background-color: lightblue;
+}
+
+#root-container {
+    background-color: green;
+    margin-top: 25px;
+}
+
+.my-grid-row {
+    background-color: red;
+}
+
+.my-grid-col {
+    background-color: lightgrey;
+    border-style: solid;
+    border-width: 1px;
+}
